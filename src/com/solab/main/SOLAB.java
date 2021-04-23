@@ -1,6 +1,5 @@
 /*
- * SOLAB.java
- *
+ * SOLAB.java 
  * Created on 10/09/2007, 19:33:00 
  */
 package com.solab.main;
